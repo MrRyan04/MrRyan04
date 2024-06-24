@@ -8,8 +8,8 @@
 #### GitHub Stats
 
 <div style="display: flex; align-items: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrRyan04&show_icons=true&theme=highcontrast" alt="Ryan's GitHub stats" style=" height: 200px;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyan04&theme=dracula" alt="Most Used Languages" style=" height: 200px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrRyan04&show_icons=true&theme=highcontrast" alt="Ryan's GitHub stats" style=" height: 200em;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyan04&theme=highcontrast" alt="Most Used Languages" style=" height: 200em;"/>
 </div>
 
 <div style="display: inline_block">
