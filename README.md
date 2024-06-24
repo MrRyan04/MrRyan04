@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá, eu sou o Ryan👋
+## Hello, I'm Ryan 👋
 
-<!--
-**MrRyan04/MrRyan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://www.instagram.com/mr.rsilva/?igsh=czAwNWO1amx6enRk)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ryan-raniery-menezes-6a65022b3/)
+![Ryan's GitHub states](https://github-readme-states.vercel.app/api?username=MrRyan04&show_icons=true&theme=highcontrast)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?MrRyan04)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br/>
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+<div style="display: inline_block"><br/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+<div style="display: inline_block"><br/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
