@@ -7,8 +7,10 @@
 
 #### GitHub Stats
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRyan04&show_icons=true&theme=highcontrast)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyan04&theme=highcontrast)
+<div style="display: flex; align-items: center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrRyan04&show_icons=true&theme=highcontrast" alt="Ryan's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRyan04&theme=dracula" alt="Most Used Languages" />
+</div>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
