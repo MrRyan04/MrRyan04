@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Server" height="30" />
   <img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="30" />
+  <img src="https://camo.githubusercontent.com/a1e4fc9b67772cd3a37e56ec6ea1b0bcf3cab6d8262d2ca621875fe09e1ea0a7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="C" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="30" />
 </p>
 
