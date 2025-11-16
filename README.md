@@ -18,12 +18,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" height="30" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/databricks/databricks-original.svg" alt="Databricks" height="30" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="30" />
+  <img src="" alt="PHP" height="30" />
+  <img src="g" alt="Databricks" height="30" />
+  <img src="" alt="SQL Server" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Server" height="30" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cisco/cisco-original.svg" alt="Cisco / TCP-IP" height="30" />
+  <img src="https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="30" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" height="30" />
