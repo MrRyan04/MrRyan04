@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-0000?style=plastic&logo=ubuntu&logoColor=E95420&logoWidth=40" alt="Ubuntu Server" />
   <img src="https://img.shields.io/badge/-0000?style=plastic&logo=cisco&logoColor=1BA0D7&logoWidth=40" alt="TCP/IP" />
   <img src="https://img.shields.io/badge/-0000?style=plastic&logo=python&logoColor=3776AB&logoWidth=40" alt="Python" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="40" />
   <img src="https://img.shields.io/badge/-0000?style=plastic&logo=git&logoColor=F05032&logoWidth=40" alt="Git" />
 </p>
 
